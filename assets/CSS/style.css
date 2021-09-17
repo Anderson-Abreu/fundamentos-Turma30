@@ -1,0 +1,19 @@
+.p1{
+    font-size: 20pt;
+    color: orange;
+}
+
+#p2{
+    font-size: 20pt;
+    color: red;
+}
+
+.tf{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+h1{
+    font-size: 40pt;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkslateblue;
+}
