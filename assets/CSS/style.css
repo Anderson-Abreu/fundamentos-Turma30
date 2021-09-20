@@ -70,13 +70,13 @@
 }
 
 .rs1{
-    transition: all 0.5s;
-    cursor: pointer;
+    transition: all .7s;
+    border: 5px solid transparent;
 }
 
 .rs1:hover{
-    -webkit-filter: drop-shadow(15px 10px 5px rgba(0,0,0,.5));
-    filter: drop-shadow(15px 10px 5px rgba(0,0,0,.5));
+    border: 5px solid #971313;
+    border-radius: 50%;
 }
 
 .foto{
